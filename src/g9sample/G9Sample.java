@@ -18,6 +18,7 @@ public class G9Sample {
         System.out.println("Hello - Main");
         System.out.println("Hi - Second");
         System.out.println("only branch");
+        System.out.println("sad");
     }
     
 }
