@@ -17,7 +17,7 @@ public class G9Sample {
     public static void main(String[] args) {
         System.out.println("Hello - Main");
         System.out.println("Hi - Second");
-        System.out.println("only branch");
+        
     }
     
 }
